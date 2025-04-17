@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1744911275" />
+    <testcase name="dut_test" classname="dut_test" file="/home/karthik/Test1/Assignment1/setup-Karthik-6362/tests/dut_test.py" lineno="5" time="0.0012509822845458984" sim_time_ns="4.001" ratio_time="3198.286697922623" />
+  </testsuite>
+</testsuites>
